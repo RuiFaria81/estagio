@@ -12,5 +12,5 @@ print(random.choice(Lista))
 print(random.randrange(0, 30 ,5))
 
 from random import shuffle
-aleatorio = [[i] for i in range(20)]
+aleatorio = [[i] for i in range(2 0)]
 print(shuffle(aleatorio))
